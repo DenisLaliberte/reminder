@@ -1,0 +1,60 @@
+À essayer
+
+#### mothership theme | un base thème développé avec la haine du markup superflu
+http://vimeo.com/54387556
+https://drupal.org/project/mothership
+https://drupal.org/node/1536448
+
+
+
+
+#### Style stripper  | un module qui retire les css de trop
+https://drupal.org/project/stylestripper
+
+
+#### une function de theme no markup
+https://drupal.org/taxonomy/term/35772
+http://drupalwatchdog.com/2/2/angry-themer
+/**
+ * Implements HOOK_theme().
+ */
+function YOUR_THEME_NAME_theme(){
+  return array(
+    'nomarkup' => array (
+      'render element' => 'element',
+     ),
+  );
+}
+
+/**
+ * Cleans all markup of a field.
+ */
+function theme_nomarkup($variables) {
+  $output = '';
+  foreach ($variables['items'] as $delta => $item) {
+    $output .=  drupal_render($item);
+  }
+  return $output;
+}
+
+<?php
+  $content['field_NAME']['#theme'] = "nomarkup";
+  // Print a clean from markup field
+  print render($content['field_NAME']); 
+?>
+
+
+
+#### dapper drupal
+http://www.youtube.com/watch?v=4aGQGnjJJlo
+
+
+#### open framework
+https://drupal.org/project/framework
+https://openframework.stanford.edu/
+
+#### pure
+https://drupal.org/project/pure
+
+#### death of a themer 
+http://www.youtube.com/watch?v=HaJnhYPLvx0

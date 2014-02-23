@@ -1,0 +1,66 @@
+
+
+
+Behat
+
+
+
+
+###
+
+outils
+
+###
+extension drupal pour behat
+https://drupal.org/project/drupalextension
+http://dspeak.com/drupalextension/subcontexts.html
+
+
+
+
+###
+
+commandes
+
+###
+
+bin/behat -dl
+
+
+
+#### 
+
+Ressources et doc 
+
+####
+
+groupe 
+https://groups.drupal.org/behat
+
+
+
+
+
+
+
+
+
+###
+
+Piste intéressantes
+
+###
+
+#module behat 
+intégration avec simple test ??
+https://drupal.org/project/behat
+
+#spec, intégration de simpletest dans behat
+http://bdd.alexo.it/spec.html
+
+
+#simple test fixtures
+module pour partir d'une db existante 
+https://drupal.org/project/simpletest_fixture
+
+
