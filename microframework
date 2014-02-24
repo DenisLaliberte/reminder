@@ -1,0 +1,35 @@
+#php
+
+silex #composante symphony
+#composante
+translation : http://silex.sensiolabs.org/doc/providers/translation.html
+security 
+form http://silex.sensiolabs.org/doc/providers/form.html
+validators
+
+
+http://bulletphp.com/ #functionnal routing
+
+
+http://limonade-php.github.io/ #inspité par sinatra et camping
+http://flightphp.com/
+http://www.slimframework.com/
+
+
+
+#Ruby
+sinatra
+camping
+GRapeocuba
+
+
+
+#python
+http://www.youtube.com/watch?v=AYjPIMe0BhA
+bobo
+cherrypy
+flask
+
+
+
+

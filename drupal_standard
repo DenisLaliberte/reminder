@@ -1,0 +1,105 @@
+https://drupal.org/coding-standards
+
+indent : 2 space, no tab
+no trailling space ->    
+all lines of code should not be longer than 80 chars.
+except longer function names, function/class definitions, variable declarations, etc
+except Control structure conditions
+Conditions should not be wrapped into multiple lines.
+All text files should end in a single newline (\n)
+#line ending
+  \n (Unix style)   NOT:      \r\n (windows style)
+##binary operator +, -, =, !=, ==, >
+  $foo = bar;     NOT:      $foo=$bar;
+##Unary operator
+  $foo++;         NOT:      $foo ++;
+## Casting
+  (int) $foo      NOT:      (int)$foo
+## string concatenations
+  $string = 'Foo' . $bar;       OR:       $string = "Foo $bar";
+  NOT:  $string = "Foo".$bar;
+  $string .= 'Foo';     NOT:      $string = $string . 'Foo';
+## PHP Code Tags
+  <?php ?>      NOT:      <? ?>
+##Semicolons
+  <?php print $tax; ?>      NOT:      <?php print $tax ?>
+## constants
+  MODULE_NAME_FOO_BAR     NOT:        fooBar
+## Function Calls
+  $var = foo($bar, $baz, $quux);      NOT:      $var = foo ($bar,$baz,$quux);
+## Class Constructor Calls
+  $foo = new MyClassName();         NOT:    $foo = new MyClassName;
+## Function Declarations
+function foo($bar) {
+    return $foobar;
+}
+  NOT:
+    function foo ($bar)
+    {
+        return $foobar;
+    }
+  NOT:
+    function foo($bar){
+        return $foobar;
+    }
+## Class Constructor in var Calls
+  $bar = 'MyClassName';
+  $foo = new $bar();
+  NOT:
+    $bar = 'MyClassName';
+    $foo = new $bar;
+## array
+  $some_array = array('hello', 'world', 'foo' => 'bar'); 
+  NOT:  $some_array = array('hello','world','foo'=>'bar');
+
+  $form['title'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Title'),
+    '#size' => 60,
+    '#maxlength' => 128,
+    '#description' => t('The title of your node.'),
+  );
+  NOT:   $form['title'] = array('#type' => 'textfield','#title' => t('Title'),'#size' => 60,'#maxlength' => 128,'#description' => t('The title of your node.'),);
+
+##Control Structures
+
+if (condition1 || condition2) {
+  action1;
+}
+elseif (condition3 && condition4) {
+  action2;
+}
+else {
+  defaultaction;
+}
+
+#always use elseif
+  eslseif ($foo)
+  NOT:
+    else if($foo)
+
+witch (condition) {
+  case 1:
+    action1;
+    break;
+
+  case 2:
+    action2;
+    break;
+
+  default:
+    defaultaction;
+}
+
+do {
+  actions;
+} while ($condition);
+
+#control statement syntax for templates
+<?php if (!empty($item)): ?>
+  <p><?php print $item; ?></p>
+<?php endif; ?>
+
+<?php foreach ($items as $item): ?>
+  <p><?php print $item; ?></p>
+<?php endforeach; ?>
