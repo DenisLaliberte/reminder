@@ -11,37 +11,82 @@ tool box pour gérer les commandes bash et l'exécution en ssh
 #yaml
 language parfait pour faire des fichiers de configuration lisible
 
+#clize
+semble être la façon la plus simple de générer des commande à partir 
+de décorateur python, semble suivre un pattern un peu semblable à fabric
+https://pypi.python.org/pypi/clize/
+http://clize.readthedocs.org/en/latest/
+
 #jinja2 
 templating engine, utiliser pour des templates de fichier de programmation.
 
-#clize
-alternative a argparse
-https://pypi.python.org/pypi/clize/
+#glob 
+pour trouver des fichier
+http://docs.python.org/2/library/glob.html
 
-#argh 
-http://pythonhosted.org/argh/
+#path
+path as python object
+https://pypi.python.org/pypi/path.py
 
-#arg parse 
-librarie python pour gérer les arguments en ligne de commande
-voir s'il est possible d'intégrer avec fabric
-http://docs.python.org/2.7/library/argparse.html
+#sh
+pour rouler des commandes shell en python ext git.checkout()
+http://amoffat.github.io/sh/
 
-http://stackoverflow.com/questions/18591879/call-python-fabric-functions-from-within-the-same-script
+##
+#outils intéressant mais overkill
+##
+#docopt
+génère un parser à partir d'une man page, concept vraiment intéressant
+http://docopt.org/
+https://github.com/docopt/docopt
+talk 
+http://www.youtube.com/watch?v=pXhcPJK5cMc&feature=youtu.be
+
+#cmd curse 
+pour développer des application en ligne de commande
+http://docs.python.org/3/library/cmd.html
+http://docs.python.org/2/howto/curses.html
+http://www.dev-explorer.com/articles/python-with-curses
 
 
-
-
-#cog 
-http://nedbatchelder.com/code/cog/
-peut-être over kill
-embeder du python en commentaire dans un autre language en commentaire pour qu'il génère du code
-
+#facker 
+générateur de dummy content
+Faker is a Python package that generates fake data for you. Whether you need to bootstrap your database, create good-looking XML documents, fill-in your persistence to stress test it, or anonymize data taken from a production service, Faker is for you.
+https://github.com/joke2k/faker
 
 #Bottle
 présenter des rapport et de l'information en format web
 
 #beautifulsoup
 parse html 
+
+#pyquery
+port de jquery en python, 
+query html et xml document comme jquery
+https://pythonhosted.org/pyquery/
+
+#scrappy
+web scrapper
+http://scrapy.org/
+
+#cog 
+code genenrator un peu overkill
+http://nedbatchelder.com/code/cog/
+embeder du python en commentaire dans un autre language en commentaire pour qu'il génère du code
+
+#argh et argpars pour parser des argument en ligne de commande
+argh
+génère des man page à partir de parser, docopt semble plus intéressant
+http://pythonhosted.org/argh/
+
+argparse 
+trop boillerplate vs clize, docopt et même argh
+librarie python pour gérer les arguments en ligne de commande
+voir s'il est possible d'intégrer avec fabric
+http://docs.python.org/2.7/library/argparse.html
+
+http://stackoverflow.com/questions/18591879/call-python-fabric-functions-from-within-the-same-script
+
 
 
 
