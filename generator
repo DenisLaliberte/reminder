@@ -8,13 +8,13 @@ et il viens avec plusieurs libraries simple pour
 #talk 
 http://blip.tv/pycon-us-videos-2009-2010-2011/pycon-2010-easy-command-line-applications-with-cmd-and-cmd2-153-3280763
 
-
 #fabric 
 tool box pour gérer les commandes bash et l'exécution en ssh 
 
 #yaml
 language parfait pour faire des fichiers de configuration lisible
 
+<<<<<<< HEAD
 #clize
 semble être la façon la plus simple de générer des commande à partir 
 de décorateur python, semble suivre un pattern un peu semblable à fabric
@@ -91,6 +91,39 @@ http://docs.python.org/2.7/library/argparse.html
 
 http://stackoverflow.com/questions/18591879/call-python-fabric-functions-from-within-the-same-script
 
+=======
+#jinja2 
+templating engine, utiliser pour des templates de fichier de programmation.
+
+#clize
+alternative a argparse
+https://pypi.python.org/pypi/clize/
+
+#argh 
+http://pythonhosted.org/argh/
+
+#arg parse 
+librarie python pour gérer les arguments en ligne de commande
+voir s'il est possible d'intégrer avec fabric
+http://docs.python.org/2.7/library/argparse.html
+
+http://stackoverflow.com/questions/18591879/call-python-fabric-functions-from-within-the-same-script
+
+
+
+
+#cog 
+http://nedbatchelder.com/code/cog/
+peut-être over kill
+embeder du python en commentaire dans un autre language en commentaire pour qu'il génère du code
+
+
+#Bottle
+présenter des rapport et de l'information en format web
+
+#beautifulsoup
+parse html 
+>>>>>>> 83258d47a1de81cd69b7e3fea362dcbeb57b8996
 
 
 
