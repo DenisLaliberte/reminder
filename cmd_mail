@@ -1,5 +1,14 @@
 
 
+si on ne met pas de mot de passe mutt prompt pour l'avoir
+aucuns besoin de laisser un mdp en clear text
+
+ça prend un folder ~/.mutt pour sauvegarder les certificat
+
+setter deux compte dans mutt
+http://pbrisbin.com/posts/two_accounts_in_mutt/
+
+
 http://en.wikipedia.org/wiki/List_of_email_clients#Text-based
 
 mutt
