@@ -31,7 +31,12 @@ http://docs.python.org/2/library/glob.html
 
 #cucumber
 https://github.com/cucumber/aruba
+talk:
 http://www.confreaks.com/videos/694-rubyconf2011-test-drive-the-development-of-your-command-line-applications
+https://github.com/cucumber/cucumber/wiki
+#cucumber avec python : 
+https://github.com/cucumber/cucumber/wiki/Python
+http://rubypython.rubyforge.org/
 
 #path
 path as python object
