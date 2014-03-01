@@ -4,8 +4,8 @@ Craftmanship
 ## livre ##
 
 *Robert c martin
-  -clean code
-  -clean coder
+  1. clean code
+  2. clean coder
 
 *Handy hunt
-  -the pragmatic programmer 
+  1. the pragmatic programmer 
