@@ -1,7 +1,7 @@
 cli : command line interfaces
 =========
 
-## dot files ## 
+## dot files ##
 outil et informations pour la gestions des fichier de configuration
 
 ## vim ##
