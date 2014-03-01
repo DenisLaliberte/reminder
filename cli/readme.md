@@ -1,6 +1,5 @@
 cli : command line interfaces
 =========
-
 ## dot files ##
 outil et informations pour la gestions des fichier de configuration
 
@@ -15,7 +14,7 @@ développement et la génération de code
 Library python pour gérer les commandes bash et des utilitaires pour éxécuter des
 commandes en ssh
 
-## cli_rb ## 
+## cli_rb ##
 développement de cli application en ruby
 
 ## cli_bdd ##
