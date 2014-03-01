@@ -14,7 +14,6 @@ Simpletest
 
 phpunit
 
-
 phpspec
 
 
@@ -22,6 +21,11 @@ phpspec
 Cucumber est la librairie de test bdd pour ruby
 
 Rspec
+
+## static analysis ##
+phplint
+code sniffer
+drupal coder module
 
 ## TDD ##
 
