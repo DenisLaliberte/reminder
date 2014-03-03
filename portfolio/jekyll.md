@@ -27,6 +27,20 @@ Using Twitter Bootstrap with Jekyll
 http://brizzled.clapper.org/blog/2012/03/05/using-twitter-bootstrap-with-jekyll/
 
 
+## exemples ##
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+
+
 ## distribution jekyll ##
 -J'ai trouvé deux distributions jekyll, Octopress et Jekyll-Bootstrap.
 -Désavantage: je me demande si elles sonts stables et si elles sont simples. 
