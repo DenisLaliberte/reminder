@@ -25,3 +25,32 @@ Docker is an open-source engine that automates the deployment of any application
 ### article de blog sur un setup complet ###
 [ Vagrant, Docker and Ansible. WTF? ](http://devo.ps/blog/2013/09/25/vagrant-docker-and-ansible-wtf.html)
 
+
+
+
+## ansible ##
+
+[ Ansible Configuration Management ](http://www.packtpub.com/ansible-configuration-management/book)
+
+
+## jenkins ##
+
+
+installation sur centos 
+http://www.andrewzammit.com/blog/installing-jenkins-ci-on-centos-6-x-tomcat-with-an-ajp-proxy/
+https://wiki.jenkins-ci.org/display/JENKINS/Standard+Security+Setup
+
+
+installation avec brew
+[ Adventures with Jenkins CI on Mac OSX & Linux ](http://shashikantjagtap.net/adventures-with-jenkins-macosx-linux/)
+
+### Livre ###
+- [ Integrating PHP Projects with Jenkins ](http://shop.oreilly.com/product/0636920021353.do )
+- [ Jenkins: The Definitive Guide ](http://shop.oreilly.com/product/0636920010326.do)
+- [ Jenkins Continuous Integration Cookbook ](http://www.packtpub.com/jenkins-continuous-integration-cookbook/book)
+
+
+### liens ###
+Utiliser jenkins pour ruby on rails : 
+[ Jenkins CI setup for Rails application from scratch ](http://gistflow.com/posts/492-jenkins-ci-setup-for-rails-application-from-scratch) 
+
