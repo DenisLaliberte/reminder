@@ -21,6 +21,15 @@ Développeur
 ### David Heinemeier Hansson ###
 [David Heinemeier Hansson at Startup School 08](http://www.youtube.com/watch?v=0CDXJ6bMkMY)
 
+### Kent Beck ###
+
+Qu'est-ce qui arrive quand on rédit de plus en plus le cycle de release
+Le cycle de déploiement as des impacte sur tout le processu de développement, 
+on as besoin de département de qa ou pas... 
+plaidoyer pour : test automatisé, refactoring
+[Software G Forces: The Effects of Acceleration ](http://www.youtube.com/watch?v=KIkUWG5ACFY)
+
+
 #### andy hunt ####
 Andy Hunt - Uncomfortable With Agility: What Has Ten+ Years Got Us?
 http://www.youtube.com/watch?v=_ojicqws2aE
