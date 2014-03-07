@@ -42,7 +42,10 @@ https://wiki.jenkins-ci.org/display/JENKINS/Standard+Security+Setup
 
 
 installation avec brew
+Installation réussie, mais le deamon ne marche pas
 [ Adventures with Jenkins CI on Mac OSX & Linux ](http://shashikantjagtap.net/adventures-with-jenkins-macosx-linux/)
+[ Running jenkins on a mac, from homebrew, as a daemon ](http://mattonrails.wordpress.com/2011/06/08/jenkins-homebrew-mac-daemo/)
+
 
 ### Livre ###
 - [ Integrating PHP Projects with Jenkins ](http://shop.oreilly.com/product/0636920021353.do )
