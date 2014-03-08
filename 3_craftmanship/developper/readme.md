@@ -20,11 +20,10 @@ Développeur
 
 ### Robert C. Martin ###
 
-[ Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin ](http://www.youtube.com/watch?v=WpkDN78P884)
-références
-object-oriented software engeneering - Ivar Jacobson
+- video [ Architecture the Lost Years by Robert Martin ](http://www.youtube.com/watch?v=WpkDN78P884)
+- object-oriented software engeneering - Ivar Jacobson
 [ amazon ](http://www.amazon.ca/Object-Oriented-Software-Engineering-Approach/dp/0201544350)
-
+- video [ Clean Code ](http://vimeo.com/28862693)
 
 ### David Heinemeier Hansson ###
 [David Heinemeier Hansson at Startup School 08](http://www.youtube.com/watch?v=0CDXJ6bMkMY)
