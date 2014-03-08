@@ -1,7 +1,11 @@
 devops
 =======
 
-## installer jenkins avec ansible ##
+## jenkins ##
+
+### video ###
+[ QA Forum: Continuous Integration and QA with Jenkins ](http://www.youtube.com/watch?v=JBQ75CfKInc)
+
 
 
 [CODE @ HOOTSUITE - Automating our Scala Deploys with Ansible  ](http://code.hootsuite.com/automating-our-scala-deploys/)
