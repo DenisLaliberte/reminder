@@ -1,5 +1,5 @@
-QA quality assurance
-====================
+BDD : Behaviour Driven Design
+=============================
 
 ## BDD ##
 Tests par behaviours
