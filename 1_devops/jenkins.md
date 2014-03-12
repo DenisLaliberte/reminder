@@ -3,7 +3,7 @@ jenkins
 
 
 ### Livre ###
-- [ Jenkins: The Definitive Guide ](http://shop.oreilly.com/product/0636920010326.do)
+- Assez complet et intéressant [ Jenkins: The Definitive Guide ](http://shop.oreilly.com/product/0636920010326.do)
 - un peu légé, quelques outils intéressant pour php
 [ Integrating PHP Projects with Jenkins ](http://shop.oreilly.com/product/0636920021353.do )
 - [ Jenkins Continuous Integration Cookbook ](http://www.packtpub.com/jenkins-continuous-integration-cookbook/book)
