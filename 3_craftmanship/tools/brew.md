@@ -21,8 +21,8 @@ homebrew
   $ brew upgrade php55
 
   * 2 message d'erreur 
-    1. Backing up all known pear.conf and .pearrc files
-    2. configure: error: GD build test failed. Please check the config.log for details.
+    1. message d'erreur Backing up all known pear.conf and .pearrc files
+    2. message d'erreur configure: error: GD build test failed. Please check the config.log for details.
        ressources 4
         $ brew rm freetype jpeg libpng gd
         $ brew install freetype jpeg libpng gd
@@ -36,7 +36,12 @@ homebrew
        l'installation des command line tools semble être différente sur maverik
        on dirais qu'il n'étais pas à jours
        Message d'erreur l'orsque j'essaie d'installer les command lines tool,
-       l'installeur me dit qu'ils ne sont pas disponible pour ma version d'osx et 
+       l'installeur me dit qu'ils ne sont pas disponible pour ma version d'osx 10.9 et 
        aucune version ne semble être disponible pour mon os
         
        installation de gcc directement ressources #8 et #9
+       il n'y as pas d'installer pour la version 10.9
+       
+       on dirais que la gestion des command lines tools est différente dans 10.9
+       gcc est disponible et brew doctor n'as pas de commentaire sur les command 
+       lines tools
