@@ -1,9 +1,11 @@
 Développeur
 ============
 
-* liste de programmeur à investiger
-* quotes
-* liens pour des talk
+## ressources ##
+
+1. [SCNA 2012: Brian Marick - Logic Programming and Test Generation]
+(http://vimeo.com/54047222)
+
 
 ## developper ##
   Aaron Swartz:
@@ -12,6 +14,7 @@ Développeur
   Kent Beck
   Andy Hunt
   David Heinemeier Hansson
+  Brian Marick  [ressources #1]
 
 
 #### livre ####
