@@ -52,6 +52,13 @@ http://vimeo.com/68378949
 [Rocky Mountain Ruby 2013 Programming with that Disreputable Part of your Brain](http://www.youtube.com/watch?v=kLLwJws1nfw)
 
 
+### martin fowler ###
+[Software Development in the 21st Century by Martin Fowler]
+(http://www.youtube.com/watch?v=TgdFA72crHM)
+[Martin Fowler: Introducing Domain-Specific Languages]
+(http://channel9.msdn.com/Series/DSL-DevCon-2009/Martin-Fowler-Introducing-Domain-Specific-Languages)
+
+
 Histoire de l'agilité
 [ Ruby Midwest 2011 Keynote by Andy Hunt ](http://www.youtube.com/watch?v=IID8fD-uKSU)
 
