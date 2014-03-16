@@ -9,3 +9,8 @@ clojure
 3. talk [Michael Fogus - Zeder - Production Rule Systems in Clojure]
 (http://www.youtube.com/watch?v=1E2CoObAaPQ)
 
+
+
+
+
+

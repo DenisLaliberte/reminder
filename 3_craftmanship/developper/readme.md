@@ -40,13 +40,18 @@ plaidoyer pour : test automatisé, refactoring
 [Software G Forces: The Effects of Acceleration ](http://www.youtube.com/watch?v=KIkUWG5ACFY)
 
 
-#### andy hunt ####
+### andy hunt ###
 Andy Hunt - Uncomfortable With Agility: What Has Ten+ Years Got Us?
 http://www.youtube.com/watch?v=_ojicqws2aE
 
 Andy Hunt: Debugging your mind
 http://vimeo.com/68378949
- 
+
+
+### brian marcik ###
+[Rocky Mountain Ruby 2013 Programming with that Disreputable Part of your Brain](http://www.youtube.com/watch?v=kLLwJws1nfw)
+
+
 Histoire de l'agilité
 [ Ruby Midwest 2011 Keynote by Andy Hunt ](http://www.youtube.com/watch?v=IID8fD-uKSU)
 
