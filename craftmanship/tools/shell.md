@@ -6,6 +6,7 @@ shell
 (http://stackoverflow.com/questions/12032583/what-is-the-definitive-way-to-install-upgrade-set-the-default-version-of-zsh)
 2. [How to Use Homebrew Zsh Instead of Mac OS X Default]
 (http://zanshin.net/2013/09/03/how-to-use-homebrew-zsh-instead-of-max-os-x-default/)
+3. [ho my zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## alternative au bash ##
 
