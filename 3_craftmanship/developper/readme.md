@@ -15,6 +15,7 @@ Développeur
   Andy Hunt
   David Heinemeier Hansson
   Brian Marick  [ressources #1]
+  Harper Reed
 
 
 #### livre ####
