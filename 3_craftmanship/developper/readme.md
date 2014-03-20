@@ -16,6 +16,7 @@ Développeur
   David Heinemeier Hansson
   Brian Marick  [ressources #1]
   Harper Reed
+  jaron lanier
 
 
 #### livre ####
