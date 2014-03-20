@@ -6,7 +6,8 @@ machine learning
 
 ### ressources ###
 1. [PYCON IRELAND | Fergal Reid | Fundamentals of Machine Learning](http://www.youtube.com/watch?v=p5-3yDN_Rj0)
-
+2. [Strata New York 2013 - John Foreman - How MailChimp Uses Data to Help Users Help Themselves](https://www.youtube.com/watch?v=_x8nVo039zo)
+3. livre de joohn forman [Data Smart Using Data Science to Transform Information into Insight](http://shop.oreilly.com/product/9781118661468.do)
 
 
 ## nltk ##
