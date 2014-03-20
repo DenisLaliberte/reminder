@@ -69,3 +69,8 @@ http://www.youtube.com/watch?v=u0_klUqeQVs
   à 4 min : citation petter sangay, the fifth discipline
   opensource, agile, 
 
+
+## jaron lanier ##
+talk [Stanford Seminar - Who Owns the Future]
+(http://www.youtube.com/watch?v=cCvf2DZzKX0)
+
