@@ -1,66 +1,17 @@
 
 
+## ressources
+1. [extension drupal pour behat] (https://drupal.org/project/drupalextension)
+2. [](http://dspeak.com/drupalextension/subcontexts.html)
+3. [group behat](https://groups.drupal.org/behat)
+4. [module behat intégration avec simple test](https://drupal.org/project/behat)
+5. [spec, intégration de simpletest dans behat](http://bdd.alexo.it/spec.html)
+6. [simple test fixture - module pour partir d'une db existante ](https://drupal.org/project/simpletest_fixture)
+7. [How to do Test Driven Development (TDD) in Drupal?](http://drupal.stackexchange.com/questions/1454/how-to-do-test-driven-development-tdd-in-drupal)
+8. [Phactory A Database Factory for PHP Unit Tests](http://phactory.org/)
+9. [How to use Phactory in Drupal](https://github.com/trimbletodd/phactory#how-to-use-phactory-in-drupal)
+10. un module pour faire du tdd ? [Test Driven Development](https://drupal.org/project/devel_tdd)
+11. 
 
-Behat
-
-
-
-
-###
-
-outils
-
-###
-extension drupal pour behat
-https://drupal.org/project/drupalextension
-http://dspeak.com/drupalextension/subcontexts.html
-
-
-
-
-###
-
-commandes
-
-###
-
-bin/behat -dl
-
-
-
-#### 
-
-Ressources et doc 
-
-####
-
-groupe 
-https://groups.drupal.org/behat
-
-
-
-
-
-
-
-
-
-###
-
-Piste intéressantes
-
-###
-
-#module behat 
-intégration avec simple test ??
-https://drupal.org/project/behat
-
-#spec, intégration de simpletest dans behat
-http://bdd.alexo.it/spec.html
-
-
-#simple test fixtures
-module pour partir d'une db existante 
-https://drupal.org/project/simpletest_fixture
-
-
+Piste intéressante sur stack exchange, utiliser Phactory pour simuler la db
+voir [ressources # 7 8 et 9]
