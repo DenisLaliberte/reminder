@@ -1,14 +1,9 @@
 road map
-- gestion des multiple version
-- name space
-  * FieldProcessor
-  * DrupalAdapter
-  * DataAcess
-  * Helper
-  * HookGenration
 - coding standard
   * psr3
 - data access
+  refactor to use class
+  add spec
 - intégration de libraries fonctionnel
   * undescorephp
   [brianium/phunc](https://github.com/brianium/phunc)
